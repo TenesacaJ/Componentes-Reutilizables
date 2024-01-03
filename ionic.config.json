@@ -1,0 +1,7 @@
+{
+  "name": "ComponentesReutilizables",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
